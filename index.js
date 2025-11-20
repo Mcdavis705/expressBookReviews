@@ -29,6 +29,7 @@ app.use("/customer/auth/*", function auth(req,res,next){
     }
 
 });
+
  
 const PORT =5000;
 
